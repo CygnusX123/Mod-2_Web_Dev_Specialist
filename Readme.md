@@ -1,21 +1,21 @@
 # 1. WEBSITE TYPE
 
   **a. KEY CHARACTERISTICS**
- - i. Free recipes and gardening as a hobby
+ - i. Free recipes and gardening tips
 - ii. Informational/Hobby/Blog type website
-- iii. Show off photography skills
+- iii. Easy to navigate
 
  **b. SIMILAR WEBSITES**
  - i. Similar Website 1 - www.Tasty.co
  -     1. Recipes
- -     2.  Food Photographs
+ -     2.  Food Photographs/Tips
  -  
  - ii. Website 2 - www.Delish.com
  -     1. Recipes
- -     2. Food Photographs
+ -     2. Food Photographs/Tips
 
  **c. CONCLUSION**
-- i. My website is a informational/hobby/blog site
+- i. My website is a informational/hobby/blog site 
 
 # 2. WEBSITE PURPOSE AND GOALS
 **a. PURPOSE**
@@ -44,6 +44,7 @@
 - i.  All Metrics
 -     1. How many people are visiting my site
 -     2. How many email sign-ups is my site getting
+-     3. How many people go to social media pages from website
 
 ii. KPI's - KEY PERFORMANCE INDICATORS
 -     1. Number of Email Addresses Collected
@@ -52,9 +53,11 @@ ii. KPI's - KEY PERFORMANCE INDICATORS
 -i Google Analytics - 
     https://analytics.google.com
 -ii. GTMetrix - https://gtmetrix.com 
+-iii. www.grammarly.com
 
 # 3. WEBSITE CONTENT AND IMAGES
-![alt text] (https://drive.google.com/drive/folders/15mUlKYDtW5D6KsUUI7l3BYrKT3uxPgks/WebsiteFlowchart.png "FoodGarden_Flowchart")
+
+![Website flowchart] (https://github.com/CygnusX123/Mod-2_Web_Dev_Specialist/blob/master/FoodGarden%20Website%20Flowchart%20Small.jpeg)
 
 
 - --
