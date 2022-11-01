@@ -57,8 +57,11 @@ ii. KPI's - KEY PERFORMANCE INDICATORS
 
 # 3. WEBSITE CONTENT AND IMAGES
 
+**Flow Chart for FoodGarden** 
+
 ![Website flowchart](https://github.com/CygnusX123/Mod-2_Web_Dev_Specialist/blob/master/FoodGarden%20Website%20Flowchart%20Small.jpeg)
 
+**Figma Mock-up**
 
 - --
 
