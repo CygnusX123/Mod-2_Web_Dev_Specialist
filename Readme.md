@@ -61,8 +61,11 @@ ii. KPI's - KEY PERFORMANCE INDICATORS
 
 ![Website flowchart](https://github.com/CygnusX123/Mod-2_Web_Dev_Specialist/blob/master/FoodGarden%20Website%20Flowchart%20Small.jpeg)
 
-**Figma Mock-up**
+**Figma Mock-ups**
 
+![Figma Website Main Page Mock-up](https://github.com/CygnusX123/Mod-2_Web_Dev_Specialist/blob/master/Main%20Page%20Website.png)
+
+![Figma Recipe Page Choice mock-up](https://github.com/CygnusX123/Mod-2_Web_Dev_Specialist/blob/master/Recipe%20Choice%20page.png)
 - --
 
 
